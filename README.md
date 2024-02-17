@@ -7,7 +7,7 @@ Share Files Over A Network
 This Project Is Not Fully Completed Yet But You Are Free To Use It.
 
 
-# Use
+# Uses
 
 ```
 ./build.sh
